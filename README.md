@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benntuecon&label=Profile%20views&color=0e75b6&style=flat" alt="benntuecon" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benntuecon" alt="benntuecon" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benntuecon&rank=-B,-C" alt="benntuecon" /></a> </p>
 
 - 🔭 I’m currently working on **Sampling strategy on Transformer models**
 
