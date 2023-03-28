@@ -13,11 +13,13 @@
 
 - 👨‍💻 All of my projects are available at [https://benchen1996.info](https://benchen1996.info)
 
-- 💬 Ask me about        **Backend Design and Machine Learning practices**
+- 💬 Ask me about         **Backend Design and Machine Learning practices**
 
-- 📫 How to reach me.       **kchen91@usfca.edu**
+- 🛠 Certificated :        **[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/ca80b79e-f024-4670-803e-fc162cfd11cd), [AWS Certified Machine Learning – Specialty](https://www.credly.com/badges/a2de59de-3265-4c55-a156-dea5f52933c3)**
 
-- ⚡ Fun fact       **Before pivot to Machine Learning and Software Engineering, I was an Econ guy, and even before that, I was a Philosophy guy🦉**
+- 📫 How to reach me :       **kchen91@usfca.edu**
+
+- 🤓 Fun fact :       Before pivot to ML and Software Engineering, I was an Econ guy, and even before that, I was a 🦉Philosophy guy🦉
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
