@@ -11,8 +11,6 @@
 
 - 🤝 On Machine Learning infra, I’m now learning **MLflow and Jenkins**
 
-- 👨‍💻 All of my projects are available at [https://benchen1996.info](https://benchen1996.info)
-
 - 💬 Ask me about         **Backend Design and Machine Learning practices**
 
 - 🛠 Certificated :        **[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/ca80b79e-f024-4670-803e-fc162cfd11cd), [AWS Certified Machine Learning – Specialty](https://www.credly.com/badges/a2de59de-3265-4c55-a156-dea5f52933c3)**
